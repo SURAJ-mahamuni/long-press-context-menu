@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image long press context</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="copy">Copy</string>
+    <string name="copy_image_link">Copy Image Link</string>
+    <string name="download">Download</string>
+</resources>
